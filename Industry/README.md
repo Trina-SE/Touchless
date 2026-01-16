@@ -9,7 +9,7 @@ Primary gestures in the internship demo:
 - Pinch (label = 2)
 
 ![Pinch gesture](images/Pinch_gesture.png)
-![Rotate gesture](images/Rotate_gesture.webp)
+![Rotate gesture](images/Rotate_gesture.jpg)
 
 ## Data Collection (Arduino/ESP32)
 - Hardware: ESP32-S3 with Gravity Analog EMG Sensor (OYMotion)
