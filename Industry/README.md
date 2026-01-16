@@ -1,7 +1,7 @@
 # Touchless Industry Worklog
 
 ## Context
-This industry-facing work was completed during my internship at Samsung. The goal was to build an end-to-end EMG gesture pipeline: data collection with embedded hardware, sensor data cleaning, preprocessing, feature extraction, and model training.
+This industry-facing work was completed during my internship at Samsung R&D Institute Bangladesh. The goal was to build an end-to-end EMG gesture pipeline: data collection with embedded hardware, sensor data cleaning, preprocessing, feature extraction, and model training.
 
 ## Gestures Used
 Primary gestures in the internship demo:
