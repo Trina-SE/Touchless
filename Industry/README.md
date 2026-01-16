@@ -29,8 +29,8 @@ Details from the Samsung internship demo setup:
 - Sampling frequency: 500 Hz
 - Baud rate: 1,000,000
 
-![Sensor setup](Sensor_setup.jpg)
-![Collecting data](Collecting_Data.jpg)
+<img src="Sensor_setup.jpg" alt="Sensor setup" width="420">
+<img src="Collecting_Data.jpg" alt="Collecting data" width="420">
 
 ## Data Cleaning and Preprocessing
 - Bandpass/low-pass filtering (Butterworth) to suppress noise
