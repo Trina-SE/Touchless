@@ -8,8 +8,8 @@ Primary gestures in the internship demo:
 - Rotate (label = 1)
 - Pinch (label = 2)
 
-![Pinch gesture](Pinch_gesture.png)
-![Rotate gesture](Rotate_gesture.webp)
+![Pinch gesture](images/Pinch_gesture.png)
+![Rotate gesture](images/Rotate_gesture.webp)
 
 ## Data Collection (Arduino/ESP32)
 - Hardware: ESP32-S3 with Gravity Analog EMG Sensor (OYMotion)
@@ -30,8 +30,8 @@ Details from the Samsung internship demo setup:
 - Baud rate: 1,000,000
 
 <p>
-  <img src="Sensor_setup.jpg" alt="Sensor setup" width="200" height="200">
-  <img src="Collecting_Data.jpg" alt="Collecting data" width="100" height="200">
+  <img src="images/Sensor_setup.jpg" alt="Sensor setup" width="200" height="200">
+  <img src="images/Collecting_Data.jpg" alt="Collecting data" width="100" height="200">
 </p>
 
 ## Data Cleaning and Preprocessing
